@@ -1,22 +1,11 @@
-# training-data-analyst 
-
-Labs and demos for Google Cloud Platform courses (http://cloud.google.com/training).
-
-## Contributing to this repo
-
-* Small edits are welcome! Please submit a Pull-Request. See also [CONTRIBUTING.md](./CONTRIBUTING.md)
-* For larger edits, please submit an issue, and we will create a branch for you. Then, get the code reviewed (in the branch) before submitting.
+# GCP Recipes (adepted from google training-data-analyst)
 
 ## Organization of this repo
 
 ### Try out the code on Google Cloud Platform
 [![Open in Cloud Shell](http://gstatic.com/cloudssh/images/open-btn.png)](https://console.cloud.google.com/cloudshell/open/?git_repo=https://github.com/GoogleCloudPlatform/training-data-analyst.git)
 
-## Courses
-
-Code for the following courses is included in this repo:
-
-### Google Cloud Platform Big Data and Machine Learning Fundamentals
+### Qwiklab Quest: Google Cloud Platform Big Data and Machine Learning Fundamentals
 
 https://cloud.google.com/training/courses/data-ml-fundamentals
 
@@ -25,17 +14,12 @@ https://cloud.google.com/training/courses/data-ml-fundamentals
 
 ### Data Engineering on Google Cloud Platform
   
-https://cloud.google.com/training/courses/data-engineering
-
 1. [Serverless Data Analysis](courses/data_analysis)
 2. [Leveraging unstructured data](courses/unstructured)
 3. [Serverless Machine Learning](courses/machine_learning)
 4. [Resilient streaming systems](courses/streaming)
 
 ### Machine Learning on Google Cloud Platform (& Advanced ML on GCP)
-
-https://www.coursera.org/learn/google-machine-learning
-https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp
 
 1. [How Google Does ML](courses/machine_learning/deepdive/01_googleml)
 2. [Launching into ML](courses/machine_learning/deepdive/02_generalization)
